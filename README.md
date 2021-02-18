@@ -5,5 +5,9 @@ Description: Creation of a git repository as an introduction to the git applicat
 
 Additional line to 
 represent gits ability 
-to show the changes made 
-to a file in the commit stage
+
+
+
+
+
+This is another change to the file 
